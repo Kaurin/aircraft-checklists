@@ -7,7 +7,6 @@
 * [ ] APU START
 * [ ] Monitor APU RPM 100%
 * [ ] APU Generator ON (CAS message should go away)
-* [ ] Wait for Engine start pressure to go to 32PSI
 
 ### Program the route
 * [ ] Request clearance
